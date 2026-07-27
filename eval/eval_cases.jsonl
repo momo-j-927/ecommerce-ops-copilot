@@ -1,0 +1,20 @@
+{"query":"查询全部地区销售额","expected_intent":"sales_summary"}
+{"query":"华南订单量是多少","expected_intent":"sales_summary"}
+{"query":"华东客单价和退款率","expected_intent":"sales_summary"}
+{"query":"看一下华北营收指标","expected_intent":"sales_summary"}
+{"query":"西南地区订单量","expected_intent":"sales_summary"}
+{"query":"扫描订单异常","expected_intent":"anomaly_scan"}
+{"query":"找出退款订单","expected_intent":"anomaly_scan"}
+{"query":"哪些订单配送延迟","expected_intent":"anomaly_scan"}
+{"query":"检查高折扣风险","expected_intent":"anomaly_scan"}
+{"query":"订单数据怎么核验","expected_intent":"anomaly_scan"}
+{"query":"退款流程应该如何处理","expected_intent":"knowledge_query"}
+{"query":"促销审核规则是什么","expected_intent":"knowledge_query"}
+{"query":"订单异常核验 SOP","expected_intent":"anomaly_scan"}
+{"query":"高金额退款怎么办","expected_intent":"anomaly_scan"}
+{"query":"缺少审批记录如何处理","expected_intent":"knowledge_query"}
+{"query":"帮我看看这个","expected_intent":"unclear"}
+{"query":"你好","expected_intent":"unclear"}
+{"query":"总结一下","expected_intent":"unclear"}
+{"query":"这个数据有问题吗","expected_intent":"unclear"}
+{"query":"给我一个建议","expected_intent":"unclear"}
